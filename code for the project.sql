@@ -1,4 +1,4 @@
-*How many days have passed from the oldest Match to the most recent one*
+/How many days have passed from the oldest Match to the most recent one/
     
 *Produce a table which, for each Season and League Name, shows the following statistics about the home goals scored: a) min b) average c) mid-range d) max e) sum Then confirm which combination of Season and League has the highest number of goals?*
     
