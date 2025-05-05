@@ -30,4 +30,7 @@ Then confirm which combination of Season and League has the highest number of go
 6. Which Team has scored the highest total number of goals (home + away) during the most recent available season? How many goals has it scored?
 7. Create a query that, for each season, shows the name of the team that ranks first in terms of total goals scored (the output table should have as many rows as the number of seasons).  Which team was the one that ranked first in most of the seasons?
 8. From question 8 create a new table (TopScorer) containing the top 10 teams in terms of total goals scored (hint: add the team id as well). 
-Then write a query that shows all the possible “pair combinations” between those 10 teams. How many “pair combinations” did it generate? 
+Then write a query that shows all the possible “pair combinations” between those 10 teams. How many “pair combinations” did it generate?
+
+
+
