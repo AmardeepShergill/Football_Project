@@ -6,7 +6,7 @@ FROM `sql-sandbox-347110.Final_Exercise.match`;
 
 -- Produce a table which, for each Season and League Name, shows the following statistics about the home goals scored: 
 -- a) min 
--- b) average 
+-- b) average    
 -- c) mid-range 
 -- d) max 
 -- e) sum 
