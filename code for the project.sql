@@ -11,6 +11,7 @@ FROM `sql-sandbox-347110.Final_Exercise.match`;
 -- d) max 
 -- e) sum 
 -- Then confirm which combination of Season and League has the highest number of goals?
+
     SELECT a.season, b.name as league_name,
  min(a.home_team_goal) as min_home_team_goal,
  avg(a.home_team_goal) as avg_home_team_goal,
