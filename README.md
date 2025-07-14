@@ -7,12 +7,10 @@ This is a project that will European Soccer Database, a collection of four indiv
 - match.csv
 - player.csv
 - match.csv
-
-
+- 
 I will be looking to answer the below set of questions that had been posed on the data. It was originally done in google bigquery and I will be copying over the code use to answer the given questions.
 
 Questions:
-
 1. How many days have passed from the oldest Match to the most recent one
 2. Produce a table which, for each Season and League Name, shows the following statistics about the home goals scored: 
   a) min
